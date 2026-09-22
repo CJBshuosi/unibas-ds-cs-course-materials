@@ -3,7 +3,6 @@
 Lecture slides, exercise sheets, official solutions, and course-provided code organized by semester and course.
 Course materials remain the property of their original authors. Existing source licenses still apply; this repository grants no additional license.
 
-Personal notes, submitted assignments, annotated slides, archives, datasets, and build outputs are excluded. Notebook outputs and execution history are removed.
 
 ## Contents
 
